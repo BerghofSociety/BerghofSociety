@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://berghofsociety.github.io/"
 # remember trailing / ^^^^^^^^^^^^^^^^^^^^^^^^
 languageCode = "en-us"
 title = "Enzo Zeffi | Diary"
